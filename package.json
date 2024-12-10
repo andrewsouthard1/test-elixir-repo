@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "snyk-to-html": "^2.2.1"
+    "snyk-to-html": "^2.3.6"
   }
 }
