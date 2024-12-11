@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "angular-expressions": "^1.1.0"
+    "angular-expressions": "^1.4.3"
   }
 }
